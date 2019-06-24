@@ -393,5 +393,5 @@ while($x<$i)
 }
 
 
-header("Location:view_groups.php");  //to be changed to debts.php 
+header("Location:view_groups.php");  
 ?>
