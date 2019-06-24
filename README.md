@@ -6,7 +6,7 @@ online Wallet Manager
 2. paste all files in htdocs
 3.url: localhost/WalletApp/
 
-**INSTRUCTIONS:**
+**INSTRUCTIONS:**    
 1.Sign Up with unique username password and other details  
 2. Login with username and password  
 3. Wallet: To view, add and remove individual events  
