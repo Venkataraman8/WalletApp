@@ -2,7 +2,7 @@
 online Wallet Manager
 
 **LOADING**
-1. create 5 tables sql files
+1. create 6 tables using sql files or create tables.php
 2. paste all .php and .html files in htdocs  
 3. url: localhost/WalletApp/
 
