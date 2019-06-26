@@ -17,6 +17,6 @@ $insert="INSERT INTO users (user_name, pass_word, first_name, last_name, email, 
 mysqli_query($con,$insert)
 or die("Error in inserting values".mysqli_error($con));
 
-header("Location:index.html");
+header("Location:index.php");
 
 ?>
