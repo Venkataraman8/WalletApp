@@ -4,7 +4,7 @@ require "database_connection.php";
 
 $user_name=trim($_REQUEST["user_name"]);
 $pass_word=trim($_REQUEST["pass_word"]);
-$hash = password_hash($password, PASSWORD_DEFAULT);
+$hash = password_hash($pass_word, PASSWORD_DEFAULT);
 $first_name=trim($_REQUEST["first_name"]);
 $last_name=trim($_REQUEST["last_name"]);
 $email=trim($_REQUEST["user_name"]);
